@@ -8,4 +8,6 @@
 Nkbros12k/Nkbros12k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---> System.out.println("https://www.google.com/");
+System.out.println("https://unblockedgmaes66.sites.google.com/site/playunblocked66/slope");
+
 
