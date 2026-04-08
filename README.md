@@ -27,8 +27,13 @@ Cybersecurity:  Ethical Hacking, OSINT, Pen Testing, CTFs
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [**Perspect AI**](https://github.com/Nkbros12k/claudehackathon26) | Real-time AI debate engine — expert personas argue topics and generate study guides | React, Express, Gemini AI, SSE |
-| [**Portfolio**](https://github.com/Nkbros12k/nikhil-website) | Personal portfolio site with working contact form | React, Vite, Tailwind, Formspree |
+| **TradBot** | Algorithmic trading bot with EMA crossover strategy, live dashboard, and Telegram alerts | Python, Flask, Alpaca API, Ollama |
+| **Gravity-Zero** | Local AI-powered IDE with autonomous 3-node agent pipeline (Planner, Coder, Reviewer) | Python, FastAPI, React, LM Studio |
+| **Blood Buddy** | Nonprofit platform connecting 8,000+ global blood donors and recipients | Full-Stack, Custom Database |
 | [**DataHack 2026**](https://github.com/MLDS-UT-Austin/mlds-datahack-2026-akhilkotturi) | Music streaming analytics — skip prediction & CLV optimization | Python, LightGBM, CatBoost, UMAP |
+| **FindMyItem App** | ML-based app helping seniors locate misplaced items via object recognition | Google Teachable Machine |
+| **Raspberry Pi Ecosystem** | Automated 3D printer, Pi-Hole ad-blocker, and remote access system | Python, Raspberry Pi |
+| [**Portfolio**](https://github.com/Nkbros12k/nikhil-website) | Personal portfolio site with working contact form | React, Vite, Tailwind, Formspree |
 
 ---
 
