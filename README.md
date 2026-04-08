@@ -14,8 +14,9 @@ Incoming Informatics student at UT Austin specializing in Human-Centered Data Sc
 Languages:      Python, TypeScript, Java, Lua, HTML/CSS
 Frontend:       React, Next.js, Tailwind CSS, Vite
 Backend:        FastAPI, Express, Flask, Node.js
-Data/ML:        scikit-learn, LightGBM, CatBoost, UMAP, Pandas
+Data/ML:        XGBoost, scikit-learn, LightGBM, CatBoost, UMAP, Pandas
 Databases:      PostgreSQL, Supabase, MongoDB
+DevOps:         Docker, Kubernetes, HPA Auto-Scaling
 Tools:          Raspberry Pi, 3D Printing, Autodesk Inventor, Git
 Cybersecurity:  Ethical Hacking, OSINT, Pen Testing, CTFs
 ```
@@ -26,12 +27,13 @@ Cybersecurity:  Ethical Hacking, OSINT, Pen Testing, CTFs
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Perspect AI**](https://github.com/Nkbros12k/claudehackathon26) | Real-time AI debate engine — expert personas argue topics and generate study guides | React, Express, Gemini AI, SSE |
-| **TradBot** | Algorithmic trading bot with EMA crossover strategy, live dashboard, and Telegram alerts | Python, Flask, Alpaca API, Ollama |
-| **Gravity-Zero** | Local AI-powered IDE with autonomous 3-node agent pipeline (Planner, Coder, Reviewer) | Python, FastAPI, React, LM Studio |
-| **Blood Buddy** | Nonprofit platform connecting 8,000+ global blood donors and recipients | Full-Stack, Custom Database |
+| [**NetSentinel**](https://github.com/Nkbros12k/netsentinel) | Real-time ML threat detection with 3D globe dashboard and K8s auto-scaling | XGBoost, FastAPI, React, Kubernetes |
+| [**Perspect AI**](https://github.com/Nkbros12k/claudehackathon26) | AI debate engine — expert personas argue topics and generate study guides | React, Express, Gemini AI, SSE |
+| **TradBot** | Algorithmic trading bot with EMA crossover, live dashboard, Telegram alerts | Python, Flask, Alpaca API, Ollama |
+| **Gravity-Zero** | Local AI-powered IDE with autonomous 3-node agent pipeline | Python, FastAPI, React, LM Studio |
+| **Blood Buddy** | Nonprofit connecting 8,000+ global blood donors and recipients | Full-Stack, Custom Database |
 | [**DataHack 2026**](https://github.com/MLDS-UT-Austin/mlds-datahack-2026-akhilkotturi) | Music streaming analytics — skip prediction & CLV optimization | Python, LightGBM, CatBoost, UMAP |
-| **FindMyItem App** | ML-based app helping seniors locate misplaced items via object recognition | Google Teachable Machine |
+| **FindMyItem App** | ML app helping seniors locate misplaced items via object recognition | Google Teachable Machine |
 | **Raspberry Pi Ecosystem** | Automated 3D printer, Pi-Hole ad-blocker, and remote access system | Python, Raspberry Pi |
 | [**Portfolio**](https://github.com/Nkbros12k/nikhil-website) | Personal portfolio site with working contact form | React, Vite, Tailwind, Formspree |
 
