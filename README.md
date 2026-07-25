@@ -2,7 +2,9 @@
 
 **Developer | Cybersecurity Enthusiast | Builder**
 
-Incoming Informatics student at UT Austin specializing in Human-Centered Data Science & Cybersecurity. I build things that solve real problems — from AI-powered tools to trading bots to platforms connecting thousands of users globally.
+Incoming Informatics student at UT Austin specializing in Human-Centered Data Science and Cybersecurity. I build things that solve real problems, from AI-powered tools to trading bots to platforms connecting thousands of users globally.
+
+**Currently building [Perspect](https://tryperspect.com)**, an AI that shows you every side of any question. A panel of expert AI personas debates any topic from every angle, backs it with cited sources, and hands you a clear briefing. Live now and in early testing.
 
 [nikhilkadiyala-portfolio.vercel.app](https://nikhilkadiyala-portfolio.vercel.app)
 
@@ -27,12 +29,12 @@ Cybersecurity:  Ethical Hacking, OSINT, Pen Testing, CTFs
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [**Perspect**](https://tryperspect.com) | Live AI tool. A panel of expert personas debates any question from every angle with cited sources, so you see every side before you decide | React, Express, Gemini AI, Supabase |
 | [**NetSentinel**](https://github.com/Nkbros12k/netsentinel) | Real-time ML threat detection with 3D globe dashboard and K8s auto-scaling | XGBoost, FastAPI, React, Kubernetes |
-| [**Perspect AI**](https://github.com/Nkbros12k/claudehackathon26) | AI debate engine — expert personas argue topics and generate study guides | React, Express, Gemini AI, SSE |
 | **TradBot** | Algorithmic trading bot with EMA crossover, live dashboard, Telegram alerts | Python, Flask, Alpaca API, Ollama |
 | **Gravity-Zero** | Local AI-powered IDE with autonomous 3-node agent pipeline | Python, FastAPI, React, LM Studio |
 | **Blood Buddy** | Nonprofit connecting 8,000+ global blood donors and recipients | Full-Stack, Custom Database |
-| [**DataHack 2026**](https://github.com/MLDS-UT-Austin/mlds-datahack-2026-akhilkotturi) | Music streaming analytics — skip prediction & CLV optimization | Python, LightGBM, CatBoost, UMAP |
+| [**DataHack 2026**](https://github.com/MLDS-UT-Austin/mlds-datahack-2026-akhilkotturi) | Music streaming analytics, skip prediction and CLV optimization | Python, LightGBM, CatBoost, UMAP |
 | **FindMyItem App** | ML app helping seniors locate misplaced items via object recognition | Google Teachable Machine |
 | **Raspberry Pi Ecosystem** | Automated 3D printer, Pi-Hole ad-blocker, and remote access system | Python, Raspberry Pi |
 | [**Portfolio**](https://github.com/Nkbros12k/nikhil-website) | Personal portfolio site with working contact form | React, Vite, Tailwind, Formspree |
@@ -41,12 +43,12 @@ Cybersecurity:  Ethical Hacking, OSINT, Pen Testing, CTFs
 
 ### Certifications & Achievements
 
-- **National Cyber Scholar** — National Cyber Scholarship Foundation
-- **SANS Foundations + GIAC Certification** — SANS Institute
-- **CTF Competitor** — PicoCTF, TryHackMe, HolidayHack
-- **Robotics Team Captain** — Competition design, build, and programming
-- **CyberPatriot State Semi-Finalist** — Ethical hacking & network security
-- **UT Austin TACC GenCyber** — Digital forensics & ethical hacking training
+- **National Cyber Scholar**, National Cyber Scholarship Foundation
+- **SANS Foundations + GIAC Certification**, SANS Institute
+- **CTF Competitor**, PicoCTF, TryHackMe, HolidayHack
+- **Robotics Team Captain**, Competition design, build, and programming
+- **CyberPatriot State Semi-Finalist**, Ethical hacking & network security
+- **UT Austin TACC GenCyber**, Digital forensics & ethical hacking training
 
 ---
 
