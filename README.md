@@ -1,59 +1,37 @@
-# Hey, I'm Nikhil
+# Nikhil Kadiyala
 
-**Developer | Cybersecurity Enthusiast | Builder**
+CS + Informatics at UT Austin, focused on security, machine learning, and the
+infrastructure underneath both. I like problems where the hard part only shows
+up at scale.
 
-Incoming Informatics student at UT Austin specializing in Human-Centered Data Science and Cybersecurity. I build things that solve real problems, from AI-powered tools to trading bots to platforms connecting thousands of users globally.
+### Currently building
 
-**Currently building [Perspect](https://tryperspect.com)**, an AI that shows you every side of any question. A panel of expert AI personas debates any topic from every angle, backs it with cited sources, and hands you a clear briefing. Live now and in early testing.
+- **[Perspect](https://tryperspect.com)** — an AI that shows every side of a question. A panel of expert personas debates a topic, surfaces where they disagree, and outputs a cited briefing. Top 20 at Claude Hackathon 2026.
+- **Drone road-inspection research** (SBI x UT Austin) — tech lead on a ~10 person team using drone imagery and computer vision to detect road cracks and stitch them into one georeferenced map. YOLOv11 trained locally on GPU.
+- **Cloudflare Zero Trust lab** — a private service reachable from anywhere with no public IP, no inbound port, and no VPN.
 
-[nikhilkadiyala-portfolio.vercel.app](https://nikhilkadiyala-portfolio.vercel.app)
+### Recently
 
----
+- **[NetSentinel](https://github.com/Nkbros12k/netsentinel)** — real-time network threat detection. XGBoost multi-class classifier on NSL-KDD (125K samples, 77% accuracy, 96% DoS precision), FastAPI backend streaming live threat events over WebSockets, containerized with Kubernetes manifests.
+- **[Gravity-Zero](https://github.com/Nkbros12k/gravity-zero)** — a fully local AI IDE. Three-agent triad (Planner, Coder, Reviewer) over Qwen 2.5 Coder 7B quantized in LM Studio, with a Monaco editor. No data leaves the machine.
+- **Software Engineering Intern at BizFirst AI** — self-hosted S3-compatible object storage on MinIO, POSIX shell disk monitoring, and three MCP tools driving a multi-agent orchestrator.
 
-### What I Work With
+### What I work with
 
 ```
-Languages:      Python, TypeScript, Java, Lua, HTML/CSS
-Frontend:       React, Next.js, Tailwind CSS, Vite
-Backend:        FastAPI, Express, Flask, Node.js
-Data/ML:        XGBoost, scikit-learn, LightGBM, CatBoost, UMAP, Pandas
-Databases:      PostgreSQL, Supabase, MongoDB
-DevOps:         Docker, Kubernetes, HPA Auto-Scaling
-Tools:          Raspberry Pi, 3D Printing, Autodesk Inventor, Git
-Cybersecurity:  Ethical Hacking, OSINT, Pen Testing, CTFs
+Languages:   Python, TypeScript, JavaScript, C#/.NET, SQL, POSIX shell
+Frontend:    React, Next.js, Vite, Tailwind CSS
+Backend:     FastAPI, Express, Node.js, Bun
+ML & CV:     XGBoost, scikit-learn, YOLO, Ultralytics, OpenCV, Pandas
+Data:        PostgreSQL, Supabase, MongoDB, Tableau
+Infra:       Docker, Kubernetes, MinIO, restic, GitHub Actions, Vercel
+Security:    Ethical hacking, OSINT, penetration testing, CTFs, digital forensics
 ```
 
----
+### Background
 
-### Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Perspect**](https://tryperspect.com) | Live AI tool. A panel of expert personas debates any question from every angle with cited sources, so you see every side before you decide | React, Express, Gemini AI, Supabase |
-| [**NetSentinel**](https://github.com/Nkbros12k/netsentinel) | Real-time ML threat detection with 3D globe dashboard and K8s auto-scaling | XGBoost, FastAPI, React, Kubernetes |
-| **TradBot** | Algorithmic trading bot with EMA crossover, live dashboard, Telegram alerts | Python, Flask, Alpaca API, Ollama |
-| **Gravity-Zero** | Local AI-powered IDE with autonomous 3-node agent pipeline | Python, FastAPI, React, LM Studio |
-| **Blood Buddy** | Nonprofit connecting 8,000+ global blood donors and recipients | Full-Stack, Custom Database |
-| [**DataHack 2026**](https://github.com/MLDS-UT-Austin/mlds-datahack-2026-akhilkotturi) | Music streaming analytics, skip prediction and CLV optimization | Python, LightGBM, CatBoost, UMAP |
-| **FindMyItem App** | ML app helping seniors locate misplaced items via object recognition | Google Teachable Machine |
-| **Raspberry Pi Ecosystem** | Automated 3D printer, Pi-Hole ad-blocker, and remote access system | Python, Raspberry Pi |
-| [**Portfolio**](https://github.com/Nkbros12k/nikhil-website) | Personal portfolio site with working contact form | React, Vite, Tailwind, Formspree |
+National Cyber Scholar · SANS Foundations + GIAC · CyberPatriot State Semi-Finalist · picoCTF, TryHackMe, HolidayHack · Currently working through Network+ and Security+
 
 ---
 
-### Certifications & Achievements
-
-- **National Cyber Scholar**, National Cyber Scholarship Foundation
-- **SANS Foundations + GIAC Certification**, SANS Institute
-- **CTF Competitor**, PicoCTF, TryHackMe, HolidayHack
-- **Robotics Team Captain**, Competition design, build, and programming
-- **CyberPatriot State Semi-Finalist**, Ethical hacking & network security
-- **UT Austin TACC GenCyber**, Digital forensics & ethical hacking training
-
----
-
-### Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-nikhilkadiyala--portfolio.vercel.app-blue?style=flat-square)](https://nikhilkadiyala-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nikhil_Kadiyala-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nikhil-kadiyala-70065b256/)
-[![Email](https://img.shields.io/badge/Email-nikhilkadiyala44@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:nikhilkadiyala44@gmail.com)
+Austin, TX · [Portfolio](https://nikhilkadiyala-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/nikhil-kadiyala-70065b256/)
